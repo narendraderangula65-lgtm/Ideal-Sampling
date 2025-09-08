@@ -180,6 +180,5 @@ plt.show()
 
 # Results
 Thus the output waveforms of Ideal,Natural and Flat-top sampling were verified in google colab.
-Attach the output waveform
-```
-# Hardware experiment output waveform.
+
+
